@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Source\\VS\\TMCryptoCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8B77795-7DBF-4970-8567-727CF41E6419}|TMCryptoCore.csproj|c:\\source\\vs\\tmcryptocore\\dal\\tmcryptocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8B77795-7DBF-4970-8567-727CF41E6419}|TMCryptoCore.csproj|solutionrelative:dal\\tmcryptocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8B77795-7DBF-4970-8567-727CF41E6419}|TMCryptoCore.csproj|c:\\source\\vs\\tmcryptocore\\tmcryptocore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F8B77795-7DBF-4970-8567-727CF41E6419}|TMCryptoCore.csproj|solutionrelative:tmcryptocore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8B77795-7DBF-4970-8567-727CF41E6419}|TMCryptoCore.csproj|c:\\source\\vs\\tmcryptocore\\controllers\\encryptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8B77795-7DBF-4970-8567-727CF41E6419}|TMCryptoCore.csproj|solutionrelative:controllers\\encryptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TMCryptoCore",
+              "DocumentMoniker": "C:\\Source\\VS\\TMCryptoCore\\TMCryptoCore.csproj",
+              "RelativeDocumentMoniker": "TMCryptoCore.csproj",
+              "ToolTip": "C:\\Source\\VS\\TMCryptoCore\\TMCryptoCore.csproj*",
+              "RelativeToolTip": "TMCryptoCore.csproj*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAMwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-04T00:44:12.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TMCryptoContext.cs",
+              "DocumentMoniker": "C:\\Source\\VS\\TMCryptoCore\\DAL\\TMCryptoContext.cs",
+              "RelativeDocumentMoniker": "DAL\\TMCryptoContext.cs",
+              "ToolTip": "C:\\Source\\VS\\TMCryptoCore\\DAL\\TMCryptoContext.cs",
+              "RelativeToolTip": "DAL\\TMCryptoContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T00:40:35.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EncryptionController.cs",
+              "DocumentMoniker": "C:\\Source\\VS\\TMCryptoCore\\Controllers\\EncryptionController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EncryptionController.cs",
+              "ToolTip": "C:\\Source\\VS\\TMCryptoCore\\Controllers\\EncryptionController.cs",
+              "RelativeToolTip": "Controllers\\EncryptionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T22:44:34.567Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
